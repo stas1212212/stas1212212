@@ -46,13 +46,13 @@
 
 ## Сертифікати Cisco Networking Academy
 
-| Курс | Дата завершення |
-| --- | --- |
-| **Cybersecurity Essentials** | 28 квітня 2023 |
-| **Introduction to Cybersecurity** | 28 квітня 2023 |
-| **Networking Essentials** | 28 травня 2024 |
+| Навчальний курс | Завершено | Документи |
+| --- | --- | --- |
+| **Cybersecurity Essentials** | 28 квітня 2023 | [Сертифікат](./Cybersecurity_Essentials_certificate_s-hrachov_fit_14_22_b_d-knute-edu-ua_ab134252-aeda-45af-9875-59cd29e109ce.pdf) · [PDF зі значком і QR-кодом](./CybersecurityEssentialsUpdate20261103-20-92xlef.pdf) |
+| **Introduction to Cybersecurity** | 28 квітня 2023 | [Сертифікат](./Introduction_to_Cybersecurity_certificate_s-hrachov_fit_14_22_b_d-knute-edu-ua_b7187570-5b0a-49fc-8f37-05eba977093c.pdf) · [PDF зі значком і QR-кодом](./I2CSUpdate20261103-20-y5ar7i.pdf) |
+| **Networking Essentials** | 28 травня 2024 | [Сертифікат](./Networking_Essentials_certificate_s-hrachov_fit_14_22_b_d-knute-edu-ua_0d175e4e-e93e-4aec-ae31-c9dfe0728269.pdf) |
 
-Успішне завершення курсів підтверджено сертифікатами Cisco Networking Academy. PDF-копії та посилання для перевірки будуть додані окремо після їх публікації у репозиторії.
+Ці документи підтверджують успішне завершення навчальних курсів Cisco Networking Academy. Це **сертифікати про проходження курсів**, а не професійні сертифікації CCNA чи CyberOps Associate. Два додаткові PDF містять зображення цифрових значків та QR-коди для перевірки.
 
 ## Навчальна підготовка з інформаційної безпеки
 
